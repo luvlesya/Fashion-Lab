@@ -1,1 +1,46 @@
-
+<html>
+    <title>Fashion Lab</title>
+    <body style="font-family:sans-serif;">
+        <header style="background-color:blueviolet;color:black;">
+            <img src="https://e.mail.ru/cgi-bin/getattach?file=IMG_20220129_204910+%281%29_edit_1568237169031+%281%29.png&id=16434805101886857226%3B0%3B1&mode=attachment&x-email=yesales07%40mail.ru" height="60px"/ id="start">
+            <a href="#price" style="color:white; font-size:20px;">Прайс-лист</a>
+        </header>
+        <main>    
+            <h1 style="text-align:center;font-size:50px;">Fashion Lab</h1>
+            <h2 style="text-align:center;font-size:30px;">Студия создания одежды</h2>
+            <img src="https://kazanfirst.ru/wp-content/uploads/2016/06/693b47c49813797ce71d0cb7bd81175e.jpg" width="900px"/>
+            <h2>Процесс работы</h2>
+            <p>Создание одежды - это всегда командная работа из нескольких этапов: создание художественного эскиза, технического эскиза, конфекционной карты и схемы узлов.</p>
+            <img src="https://us.123rf.com/450wm/aquamarine1paint/aquamarine1paint1912/aquamarine1paint191200307/135424743-vector-illustration-on-white-background-woman-seamstress-works-on-sewing-machine-tailor-atelier-tail.jpg?ver=6" width="200px"/>
+            <img src="https://e.mail.ru/cgi-bin/getattach?file=Screenshot_20220129_203138.jpg&id=16434775070744866460%3B0%3B1&mode=attachment&x-email=yesales07%40mail.ru" width="160px"/>
+            <img src="https://e.mail.ru/cgi-bin/getattach?file=Screenshot_20220129_203123.jpg&id=16434775070744866460%3B0%3B2&mode=attachment&x-email=yesales07%40mail.ru" width="190px"/>
+            <h2 id="price">Наше предложение</h2>
+        <table style="border:1px solid green;border-collapse:collapse;">
+        <tr style="border:1px solid green;background-color:palegreen">
+            <td>Вид работы</td>
+            <td>Подробности</td>
+            <td>Зарплата</td>
+        </tr>
+        <tr style="border:1px solid green">
+           <td style="background-color:palegreen">Дизайнер</td>
+           <td>Разработка эскизов новых модолей одежды</td>
+           <td>80 тыс.</td>
+        </tr> 
+        <tr style="border:1px solid green">
+            <td style="background-color:palegreen">Стилист</td>
+            <td>Подчеркивание недостоющих деталей</td>
+            <td>60 тыс.</td>
+        </tr>
+        <tr style="border:1px solid green">
+            <td style="background-color:palegreen;">Модельер</td>
+            <td>Изменение деталей</td>
+            <td>30 тыс.</td>
+        </tr>
+    </table>
+        </main>
+        <footer style="background-color:blueviolet;font-size:15px"> 
+    <a href style="color:white;"><p>Адрес: город Спортивный, ул.Здоровья, 15.</p></a>
+    <a href style="color:white;"><p>Тел.:596-457</p></a>
+    </footer>       
+    </body>
+</html>
